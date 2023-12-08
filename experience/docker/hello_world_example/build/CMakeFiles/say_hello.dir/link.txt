@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/say_hello.dir/hello_world.c.o  -o say_hello 

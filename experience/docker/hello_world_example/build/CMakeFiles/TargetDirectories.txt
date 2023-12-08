@@ -1,0 +1,7 @@
+/hello_world/build/CMakeFiles/install/strip.dir
+/hello_world/build/CMakeFiles/install/local.dir
+/hello_world/build/CMakeFiles/install.dir
+/hello_world/build/CMakeFiles/list_install_components.dir
+/hello_world/build/CMakeFiles/rebuild_cache.dir
+/hello_world/build/CMakeFiles/edit_cache.dir
+/hello_world/build/CMakeFiles/say_hello.dir
